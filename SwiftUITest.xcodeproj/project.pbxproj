@@ -14,6 +14,7 @@
 		DE3A10AA2BF0D7F8005DD177 /* SwiftUITestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3A10A92BF0D7F8005DD177 /* SwiftUITestTests.swift */; };
 		DE3A10B42BF0D7F8005DD177 /* SwiftUITestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3A10B32BF0D7F8005DD177 /* SwiftUITestUITests.swift */; };
 		DE3A10B62BF0D7F8005DD177 /* SwiftUITestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3A10B52BF0D7F8005DD177 /* SwiftUITestUITestsLaunchTests.swift */; };
+		DE3A10C32BF0D85C005DD177 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3A10C22BF0D85C005DD177 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		DE3A10AF2BF0D7F8005DD177 /* SwiftUITestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUITestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE3A10B32BF0D7F8005DD177 /* SwiftUITestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITestUITests.swift; sourceTree = "<group>"; };
 		DE3A10B52BF0D7F8005DD177 /* SwiftUITestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DE3A10C22BF0D85C005DD177 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				DE3A109A2BF0D7F6005DD177 /* ContentView.swift */,
 				DE3A109C2BF0D7F8005DD177 /* Assets.xcassets */,
 				DE3A109E2BF0D7F8005DD177 /* Preview Content */,
+				DE3A10C22BF0D85C005DD177 /* SwiftUIView.swift */,
 			);
 			path = SwiftUITest;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				DE3A109B2BF0D7F6005DD177 /* ContentView.swift in Sources */,
 				DE3A10992BF0D7F6005DD177 /* SwiftUITestApp.swift in Sources */,
+				DE3A10C32BF0D85C005DD177 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
